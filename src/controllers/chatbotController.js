@@ -60,5 +60,5 @@ function callSendAPI(sender_psid, response) {
 module.exports = {
     getHomePage:getHomePage,
     getWebhook:getWebhook,
-    postWebhook:postWebhook
+    postWebhook:postWebhook,
 }
